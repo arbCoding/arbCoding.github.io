@@ -1,0 +1,36 @@
+# Mac stuff
+*.dSYM
+*.DS_Store
+
+# LaTeX stuff
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+*.lof
+*.lot
+*.equ
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.out
+*.log
+.auctex*
+
+# README stuff
+README.html
+README.pdf
+*.tex
+
+# VS Code/Codium
+.vscode/
